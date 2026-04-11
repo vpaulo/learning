@@ -27,6 +27,9 @@
 *.db-shm
 *.db-wal
 
+#.zig-cache
+#zig-out
+
 # Helpers
 IMPROVEMENTS.md
 CHANGE_LOG.md

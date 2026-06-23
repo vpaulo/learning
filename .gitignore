@@ -29,6 +29,7 @@
 
 .zig-cache
 zig-out
+zig-pkg
 
 # Helpers
 IMPROVEMENTS.md
